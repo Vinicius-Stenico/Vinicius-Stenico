@@ -3,7 +3,7 @@
 
 ### Aqui estão algumas informações interessantes
 #
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinícius-gabriel-stenico-selvaggio-265458254)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-gabriel-stenico-selvaggio-265458254)
 [![Linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Stenico)
 #
 ![Fraga Github stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Stenico&theme=blue-green)
