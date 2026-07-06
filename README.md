@@ -54,8 +54,8 @@ Repositório: [PyCalc](https://github.com/Vinicius-Stenico/PyCalc)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Stenico&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-tan-omega-18.vercel.app/api?username=Vinicius-Stenico&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Stenico&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-tan-omega-18.vercel.app/api/top-langs/?username=Vinicius-Stenico&layout=compact&theme=transparent&hide_border=true)
 
 </div>
